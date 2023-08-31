@@ -1,2 +1,2 @@
 ### Hi 
-<img src="https://img.shields.io/badge/Python-66A3D2?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/postgre-408DD2?style=for-the-badge&logo=postgresql&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-66A3D2?style=for-the-badge&logo=Python&logoColor=black"/> <img src="https://img.shields.io/badge/postgre-408DD2?style=for-the-badge&logo=postgresql&logoColor=black"/> <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=black"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"/> <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=black"/>
